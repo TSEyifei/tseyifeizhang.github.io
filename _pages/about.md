@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Yifei Zhang, a Ph.D. candidate in Economics at Toulouse School of Economics (TSE), and my Ph.D. advisor is Professor Ulrich Hege. I am also a visiting PhD student at Yale University. 
+Hi, I am Yifei Zhang, a Ph.D. candidate in Economics at [Toulouse School of Economics (TSE)](https://www.tse-fr.eu/), and my Ph.D. advisor is Professor [Ulrich Hege](https://www.tse-fr.eu/people/ulrich-hege). I am also a visiting PhD student at Yale University. 
 
 I am currently on the job market in both ASSA 2022 (Boston) and European Job Market 2021 (Barcelona). 
 
