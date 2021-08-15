@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Click Here for Detailed CV](http://tseyifeizhang.github.io/files/Yifei_Zhang.pdf)
+
 
 Education
 ======
