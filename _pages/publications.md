@@ -14,21 +14,24 @@ On the program: AFA 2022, EFA 2021, EasternFA 2021, WINDS 2021, Econometric Soci
 <br />
 This paper studies whether and how corporate venture capital (CVC) could spur the firm scope change of CVC corporate parent. An example is that Google Venture (Google's CVC program) facilitates Google to establish the Google Smart Home business. 
 
-![image](https://user-images.githubusercontent.com/88915744/129469025-23346d4b-7d74-481a-bd52-a9b2222e7ba1.png | width == 60)
-
+<img src="https://user-images.githubusercontent.com/88915744/129469025-23346d4b-7d74-481a-bd52-a9b2222e7ba1.png" width="60" height="60">
 
 <br />
 <br />
+
 (2) [Activism Pressure and The Market for Corporate Assets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3305260), with [Ulrich Hege](https://www.tse-fr.eu/people/ulrich-hege)
 <br />
 On the program: AFA 2020
 <br />
 We document that hedge fund activism, as well as its potential threat, could lead firms to be more likely to be acquired and less likely to acquire other firms. We aggregate them to industry-level impacts and study how HFA reshapes the markets for corporate assets, such as the prices of selling assets and asset liquidity. 
+
 <br />
 <br />
+
 (3) Hedge Fund Activism, Corporate Governance, and Product Market Competition
 <br />
 On the program: NFA 2020
+<br />
 Hedge fund activism is known as bringing value to target shareholders. I ask which kind of target firms benefit the most from HFA. It is the firms with initial good governance and in competitive industries. I provide two explanations for the puzzling results: (1) campaign success probability and (2) short-termism.  
 
 Working in Progress
@@ -36,6 +39,6 @@ Working in Progress
 <br />
 (4) Breakthrough Patent Wave, with
 <br /> We develop a new textual measure identifying waves for breakthrough technology and further link to merger and IPO waves. Then we investigate the impact of breakthrough patent waves on individual firms. We find evidence consistent with the "churn".
-[Breakthrough_Performance.pdf](https://github.com/TSEYifeiZhang/tseyifeizhang.github.io/files/6987575/Breakthrough_Performance.pdf)
 
-![image](https://user-images.githubusercontent.com/88915744/129469038-651f1fc1-bb2a-4baf-9459-7877638ba6f5.png | width = 60)
+
+<img src="https://user-images.githubusercontent.com/88915744/129469038-651f1fc1-bb2a-4baf-9459-7877638ba6f5.png" width="60" height="60">
