@@ -24,14 +24,14 @@ This paper studies whether and how corporate venture capital (CVC) could spur th
 <br />
 On the program: AFA 2020
 <br />
-We document that hedge fund activism, as well as its potential threat, could lead firms to be more likely to be acquired and less likely to acquire other firms. We aggregate them to industry-level impacts and study how HFA reshapes the markets for corporate assets, such as the prices of selling assets and asset liquidity. 
+We document that hedge fund activism, as well as its potential threat, could lead firms to be more likely to be acquired and less likely to acquire other firms. We aggregate them to industry-level impacts and study how HFA reshapes the market for corporate assets, including the prices of selling assets and asset liquidity. 
 
 <br />
 (3) Hedge Fund Activism, Corporate Governance, and Product Market Competition (Available upon Request)
 <br />
 On the program: NFA 2020
 <br />
-Hedge fund activism is known as bringing value to target shareholders. I ask which kind of target firms benefit the most from HFA. It is the firms with initial good governance and in competitive industries. I provide two explanations for the puzzling results: (1) campaign success probability and (2) short-termism.  
+Hedge fund activism is known as bringing value to target shareholders. I ask which kind of target firms benefit the most from HFA. The answer is the firms with initial good governance and in competitive industries. I provide two explanations for the puzzling results: (1) campaign success probability and (2) short-termism.  
 
 Working in Progress
 ======
