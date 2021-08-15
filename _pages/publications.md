@@ -13,7 +13,7 @@ On the program: AFA 2022, EFA 2021, EasternFA 2021, WINDS 2021, Econometric Soci
 [Online Appendix](http://tseyifeizhang.github.io/files/Online_Appendix_CVC.pdf)
 <br />
 <br />
-2. Activism Pressure and The Market for Corporate Assets, with Ulrich Hege
+2. [Activism Pressure and The Market for Corporate Assets](https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=AFA2020&paper_id=1274), with Ulrich Hege
 <br />
 On the program: AFA 2020
 <br />
