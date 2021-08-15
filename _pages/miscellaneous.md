@@ -8,9 +8,8 @@ author_profile: true
 I really love travelling, meeting different people and enjoying different culture. I really love travelling with my parents. 
 
 I visited Tokyo with my parents in 2018. Tokyo is the No. 1 place I would like to re-visit! Yes, below are my parents and I (really loving them). 
-
-<img src="https://user-images.githubusercontent.com/88915744/129470429-7cb3a2ad-9806-4cce-a484-164b77382ab7.jpg" width="500" />
-<img src="https://user-images.githubusercontent.com/88915744/129470740-822aa800-3123-4ea7-8a06-940aab32c047.jpg" width="500" />
+<img src="https://user-images.githubusercontent.com/88915744/129471469-b05a4fc3-ec65-47f8-aeff-b052e4a5ab62.png" width="500" />
+<img src="https://user-images.githubusercontent.com/88915744/129471487-bb2b9897-7248-434a-bf36-c1b767946020.png" width="500" />
 
 
 My parents and I also visted Hong Kong and enjoyed the beauty of the Victoria Harbor. 
