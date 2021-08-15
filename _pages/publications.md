@@ -27,8 +27,7 @@ On the program: AFA 2020
 We document that hedge fund activism, as well as its potential threat, could lead firms to be more likely to be acquired and less likely to acquire other firms. We aggregate them to industry-level impacts and study how HFA reshapes the markets for corporate assets, such as the prices of selling assets and asset liquidity. 
 
 <br />
-
-(3) Hedge Fund Activism, Corporate Governance, and Product Market Competition
+(3) Hedge Fund Activism, Corporate Governance, and Product Market Competition (Available upon Request)
 <br />
 On the program: NFA 2020
 <br />
