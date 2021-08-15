@@ -1,12 +1,11 @@
 ---
 layout: archive
-title: 
+title:  Working Papers
 permalink: /publications/
 author_profile: true
 ---
 
-Working Papers
-======
+
 Corporate Venture Capital and Firm Scope (Job Market Paper)
 
 Activism Pressure and The Market for Corporate Assets, with Ulrich Hege
