@@ -12,7 +12,7 @@ On the program: AFA 2022, EFA 2021, EasternFA 2021, WINDS 2021, Econometric Soci
 <br />
 [Online Appendix](http://tseyifeizhang.github.io/files/Online_Appendix_CVC.pdf)
 <br />
-This paper studies whether and how corporate venture capital (CVC) could spur the firm scope change of CVC corporate parent. An example is that Google Venture (Google's CVC program) facilitates Google to establish the Google Smart Home business. 
+This paper studies whether, and more crucially, how corporate venture capital (CVC) could spur the firm scope change of CVC corporate parent. An example is that Google Venture (Google's CVC program) facilitates Google in establishing an emerging business, the Google Smart Home business. 
 
 ![summary](https://user-images.githubusercontent.com/88915744/129469534-6e003490-763d-4174-b869-e8897aa52ef1.PNG)
 
@@ -24,19 +24,19 @@ This paper studies whether and how corporate venture capital (CVC) could spur th
 <br />
 On the program: AFA 2020
 <br />
-We document that hedge fund activism, as well as its potential threat, could lead firms to be more likely to be acquired and less likely to acquire other firms. We aggregate them to industry-level impacts and study how HFA reshapes the market for corporate assets, including the prices of selling assets and asset liquidity. 
+We document that hedge fund activism, as well as its potential threat, could lead firms to be more likely to be acquired and less likely to acquire other firms. We aggregate them to industry-level impacts and study how HFA ultimately reshapes the market for corporate assets, including the prices of selling assets and asset liquidity. 
 
 <br />
 (3) Hedge Fund Activism, Corporate Governance, and Product Market Competition (Available upon Request)
 <br />
 On the program: NFA 2020
 <br />
-Hedge fund activism is known as bringing value to target shareholders. I ask which kind of target firms benefit the most from HFA. The answer is the firms with initial good governance and in competitive industries. I provide two explanations for the puzzling results: (1) campaign success probability and (2) short-termism.  
+Hedge fund activism is well-known as bringing value to target shareholders. But which kind of targeted firms benefit the most from HFA? The answer is the firms with initial good governance and in competitive industries. I provide two explanations for the puzzling results: (1) campaign success probability and (2) short-termism.  
 
 Working in Progress
 ======
 <br />
 (4) Breakthrough Patent Wave, with
-<br /> We develop a new textual measure identifying waves for breakthrough technology and further link to merger and IPO waves. Then we investigate the impact of breakthrough patent waves on individual firms. We find evidence consistent with the "churn".
+<br /> We develop a new textual method to identify waves for breakthrough technology and further link them to merger and IPO waves. Then we investigate the impact of breakthrough patent waves on individual firms. We find evidences consistent with the "churn".
 
 ![image](https://user-images.githubusercontent.com/88915744/129469544-c97ac564-ebf7-4dc1-9b2c-0530b2f175e6.png)
