@@ -5,7 +5,7 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-I really love travelling a lot, meeting different people and enjoying different culture. I really love travelling with my parents. 
+I really love travelling, meeting different people and enjoying different culture. I really love travelling with my parents. 
 
 I visited Tokyo with my parents in 2018. Tokyo is the No. 1 place I would like to re-visit! Yes, below are my parents and I (really loving them). 
 
