@@ -5,11 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-Education
+Working Papers
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Corporate Venture Capital and Firm Scope (Job Market Paper)
 
-Work experience
+Activism Pressure and The Market for Corporate Assets, with Ulrich Hege
+
+Hedge Fund Activism, Corporate Governance, and Product Market Competition
+
+Working in Progress
 ======
