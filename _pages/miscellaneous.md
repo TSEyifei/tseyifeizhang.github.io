@@ -24,7 +24,7 @@ We also visited Hong Kong, being able to enjoy the beauty of the famous Victoria
 <img src="https://user-images.githubusercontent.com/88915744/129470755-455d5119-8993-4a63-8128-3c28841c500b.jpg" width="700" />
 
 <br />
-:) Here comes the view of the sea! Fortunately enough (since before the Covid), I have been to ASSA/AFA San Diego with my advisor Uli. I met with my old friends there, Jiakun (now at Renmin U.), Yuting (U. New Mexico), and Senran (SWUFE) :), along with enjoying beach, sea, and local seafood. How beautiful the great San Diego is! 
+:) Here comes the view of the sea! Fortunately enough (as it is right before the Covid), I have been to ASSA/AFA San Diego with my advisor Uli. I met with my old friends there, Jiakun (now at Renmin U.), Yuting (U. New Mexico), and Senran (SWUFE) :), along with enjoying beach, sea, and local seafood. How beautiful the great San Diego is! 
 <br />
 <br />
 <img src="https://user-images.githubusercontent.com/88915744/129470772-723befdf-7083-4edb-9521-031a65b01aa7.jpg" width="200" />
