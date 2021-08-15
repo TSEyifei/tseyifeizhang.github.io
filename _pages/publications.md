@@ -17,6 +17,7 @@ On the program: AFA 2022, EFA 2021, EasternFA 2021, WINDS 2021, Econometric Soci
 <br />
 On the program: AFA 2020
 <br />
+<br />
 3. Hedge Fund Activism, Corporate Governance, and Product Market Competition
 <br />
 On the program: NFA 2020
