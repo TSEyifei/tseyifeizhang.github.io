@@ -17,8 +17,8 @@ My parents and I also visted Hong Kong and enjoyed the beauty of the Victoria Ha
 <img src="https://user-images.githubusercontent.com/88915744/129470754-6f19f2eb-d760-434a-a725-ff79347f4cab.jpg" width="500" />
 <img src="https://user-images.githubusercontent.com/88915744/129470755-455d5119-8993-4a63-8128-3c28841c500b.jpg" width="500" />
 
-I have been to ASSA/AFA San Diego with my advisor Uli, and surprisingly met old friends, Jiakung (now at Remin U) and Senran (SWUFE). How beautiful San Diego is!
-<img src="https://user-images.githubusercontent.com/88915744/129470772-723befdf-7083-4edb-9521-031a65b01aa7.jpg" width="500" />
+I have been to ASSA/AFA San Diego with my advisor Uli, and surprisingly met old friends, Jiakun (now at Renmin U) and Senran (SWUFE). How beautiful San Diego is!
+<img src="https://user-images.githubusercontent.com/88915744/129470772-723befdf-7083-4edb-9521-031a65b01aa7.jpg" width="200" />
 
 Last but not least, let me introduce my great friend, Dakang, who is a great theoriest at TSE. Click [here](https://www.tse-fr.eu/people/dakang-huang) to see his photo.  
 
