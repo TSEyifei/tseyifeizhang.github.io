@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Teaching"
 permalink: /miscellaneous/
 author_profile: true
 ---
