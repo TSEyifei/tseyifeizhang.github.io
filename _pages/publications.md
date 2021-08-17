@@ -38,4 +38,4 @@ Working in Progress
 <br />
 (4) Breakthrough Patent Wave, with
 <br /> We develop a new textual method to identify waves for breakthrough technology and further link them to merger and IPO waves. Then we investigate the impact of breakthrough patent waves on individual firms. We find evidences consistent with the "churn".
-<img src="https://user-images.githubusercontent.com/88915744/129674650-f3cb0163-d7ec-45d5-96f4-e68488caf8a1.png" width="700" />
+<img src="https://user-images.githubusercontent.com/88915744/129674650-f3cb0163-d7ec-45d5-96f4-e68488caf8a1.png" width="600" />
