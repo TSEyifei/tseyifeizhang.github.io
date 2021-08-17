@@ -14,7 +14,7 @@ On the program: AFA 2022, EFA 2021, EasternFA 2021, WINDS (Wharton) 2021, Econom
 <br />
 This paper studies whether, and more crucially, how corporate venture capital (CVC) could spur the firm scope change of CVC corporate parent. An example is that Google Venture (Google's CVC program) facilitates Google in establishing an emerging business, the Google Smart Home business. 
 
-<img src="https://user-images.githubusercontent.com/88915744/129469534-6e003490-763d-4174-b869-e8897aa52ef1.PNG" width="800" />
+<img src="https://user-images.githubusercontent.com/88915744/129469534-6e003490-763d-4174-b869-e8897aa52ef1.PNG" width="870" />
 
 <br />
 <br />
@@ -38,4 +38,5 @@ Working in Progress
 <br />
 (4) Breakthrough Patent Wave, with
 <br /> We develop a new textual method to identify waves for breakthrough technology and further link them to merger and IPO waves. Then we investigate the impact of breakthrough patent waves on individual firms. We find evidences consistent with the "churn".
+<br />
 <img src="https://user-images.githubusercontent.com/88915744/129674650-f3cb0163-d7ec-45d5-96f4-e68488caf8a1.png" width="600" />
