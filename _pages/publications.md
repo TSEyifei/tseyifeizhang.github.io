@@ -31,10 +31,11 @@ We document that hedge fund activism, as well as its potential threat, could lea
 On the program: NFA 2020
 <br />
 Hedge fund activism is well-known as bringing value to target shareholders. But which kind of targeted firms benefit the most from HFA? The answer is the firms with initial good governance and in competitive industries. I provide two explanations for the puzzling results: (1) campaign success probability and (2) short-termism.  
+<img src="https://user-images.githubusercontent.com/88915744/129674503-90d74be3-7da9-4c52-bbd3-a26b83c1c8dd.png" width="800" />
 
 Working in Progress
 ======
 <br />
 (4) Breakthrough Patent Wave, with
 <br /> We develop a new textual method to identify waves for breakthrough technology and further link them to merger and IPO waves. Then we investigate the impact of breakthrough patent waves on individual firms. We find evidences consistent with the "churn".
-<img src="https://user-images.githubusercontent.com/88915744/129469544-c97ac564-ebf7-4dc1-9b2c-0530b2f175e6.jpg" width="1000" />
+<img src="https://user-images.githubusercontent.com/88915744/129674650-f3cb0163-d7ec-45d5-96f4-e68488caf8a1.png" width="800" />
