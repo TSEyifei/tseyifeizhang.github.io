@@ -14,7 +14,7 @@ On the program: AFA 2022, EFA 2021, EasternFA 2021, WINDS (Wharton) 2021, Econom
 <br />
 This paper studies whether, and more crucially, how corporate venture capital (CVC) could spur the firm scope change of CVC corporate parent. An example is that Google Venture (Google's CVC program) facilitates Google in establishing an emerging business, the Google Smart Home business. 
 
-<img src="https://user-images.githubusercontent.com/88915744/129469534-6e003490-763d-4174-b869-e8897aa52ef1.PNG" width="1000" />
+<img src="https://user-images.githubusercontent.com/88915744/129469534-6e003490-763d-4174-b869-e8897aa52ef1.PNG" width="800" />
 
 <br />
 <br />
