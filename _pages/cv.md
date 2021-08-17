@@ -24,10 +24,10 @@ Referees on the Market
 * Catherine Casamatta, Professor in Finance, Toulouse School of Economics
 * Florian Ederer, Associate Professor in Economics, Yale University
 
-Softwares
+Softwares and Programming
 ======
-* Used Frequently: Stata, Python
-* Used not Frequently: SAS, R
+* Used Frequently: Stata, Python, LaTeX
+* Used not Frequently: SAS, R, Matlab
 
 Awards
 ======
@@ -39,5 +39,5 @@ Awards
 Language
 ======
 * Chinese (Native)
-* English (Proficiency)
+* English (Fluent)
 * French (Very Basic)
