@@ -23,6 +23,8 @@ This paper studies whether, and more crucially, how corporate venture capital (C
 <br />
 On the program: AFA 2020
 <br />
+Featured on [Columbia Law School Blue Sky Blog](https://clsbluesky.law.columbia.edu/2019/01/23/activism-pressure-and-the-market-for-corporate-assets/)
+<br />
 We document that hedge fund activism, as well as its potential threat, could lead firms to be more likely to be acquired and less likely to acquire other firms. We aggregate them to industry-level impacts and study how HFA ultimately reshapes the market for corporate assets, including the prices of selling assets and asset liquidity. 
 
 <br />
