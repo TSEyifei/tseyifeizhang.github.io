@@ -14,4 +14,4 @@ I am currently on the job market in both ASSA 2022 (Boston) and European Job Mar
 
 My main research interests lie in corporate finance, economics of innovation, and entrepreneurial finance. 
 
-My single-authored job market paper is about Corporate Venture Capital and Firm Scope, and I will present it in the AFA 2022 regular program (during the ASSA 2022). 
+My single-authored job market paper is about Corporate Venture Capital and Firm Scope, and I will present it in the [AFA 2022 regular program](https://www.aeaweb.org/conference/2022/preliminary/1693?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lBKLi_OTgRwlHaWS1KJcXCDL2T8owD_IMcRVISw1r6S0KBUolZJYCVWTmZsKYZVlppaDzCsqKFwwCpgaKNXWAlwwXlwiIRA,) (during the ASSA 2022). 
