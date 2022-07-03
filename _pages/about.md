@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Yifei Zhang, a Ph.D. candidate in Economics at [Toulouse School of Economics (TSE)](https://www.tse-fr.eu/), and my Ph.D. advisor is Professor [Ulrich Hege](https://www.tse-fr.eu/people/ulrich-hege). I was also a visiting PhD student at Yale University in 2019. 
+I am Yifei Zhang. I am currently an assistant professor in Finance at Peking University, HSBC Business School. 
 
-I am currently on the job market in both ASSA 2022 (Boston) and European Job Market 2021 (Barcelona). 
-
-My main research interests lie in corporate finance, economics of innovation, and entrepreneurial finance. 
-
-My single-authored job market paper is about Corporate Venture Capital and Firm Scope, and I will present it in the [AFA 2022 regular program](https://www.aeaweb.org/conference/2022/preliminary/1693?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lBKLi_OTgRwlHaWS1KJcXCDL2T8owD_IMcRVISw1r6S0KBUolZJYCVWTmZsKYZVlppaDzCsqKFwwCpgaKNXWAlwwXlwiIRA,) (during the ASSA 2022). 
+I obtained my PhD degree in Economics at Toulouse School of Economics in 2022. 
